@@ -65,7 +65,7 @@
 
 | GitHub Stats | Most Used Languages |
 | --- | --- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshuls1610&show_icons=true&theme=radical) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshuls1610&layout=compact) |
+| ![GitHub Stats](github-stats-6izvwo9fp-anshuls1610s-projects.vercel.app/api?username=anshuls1610&show_icons=true&theme=radical) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshuls1610&layout=compact) |
 
 | GitHub Streak | Visitor Count |
 | --- | --- |
